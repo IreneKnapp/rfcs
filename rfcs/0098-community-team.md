@@ -140,7 +140,7 @@ The above are some suggested remedies, but these should not be taken as prescrip
 
 The community team will hold its members accountable to these ideals.
 
-## Code of Conduct and Statement of Values
+## Code of Conduct
 [values]: #values
 
 Following the adoption of this RFC, the code of conduct and statement of values will be displayed on a dedicated page on the NixOS website. They will read as follows, unless amended by a future RFC.
