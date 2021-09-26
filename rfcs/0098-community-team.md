@@ -197,7 +197,7 @@ Creating a hierarchical power structure based on specific individuals having sem
 A suggestion from @blaggacao:
 * Submit one procedural RFC for the Moderating(!) Team
 * A normative RFC for our "Statement of Values" which can be discussed without this really incommodating defensive framing of "policing discussions on the public forum"
-* As prominent member pointed out, the NixOS foundation already had had a tweet commiting to the entirety of prerequisite principles of emotional safety in public discussions. An really short RFC could take that statement, maybe expand a little bit in context and move it out of twitter into the body of (accepted) RFCs. Such RFC will have "teeth".
+* As a prominent member pointed out, the NixOS foundation already had a tweet commiting to the entirety of the prerequisite principles of emotional safety in public discussions. A really short RFC could take that statement, maybe expand it with a little bit of context and move it out of Twitter and into the body of (accepted) RFCs. Such an RFC will have "teeth".
 
 This suggestion is included verbatim, per discussion on the GitHub thread.
 
